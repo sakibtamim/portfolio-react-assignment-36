@@ -1,0 +1,13 @@
+/* footer part start  */
+#footer {
+  padding: 100px 0;
+  background-color: #30333a;
+}
+.footer_main h2 {
+  height: 36px;
+  font-size: 36px;
+  font-weight: 600;
+  font-family: "IBM Plex Serif", serif;
+  color: #efbf6e;
+}
+/* footer part start  */

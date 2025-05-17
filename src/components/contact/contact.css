@@ -1,0 +1,45 @@
+/* contact part start  */
+#contact {
+  padding: 100px 0;
+  background-color: #3d3e42;
+  position: relative;
+  border-top: 3px solid #efbf6e;
+  border-bottom: 3px solid #efbf6e;
+}
+
+.con_head h2 {
+  font-size: 36px;
+  font-weight: 600;
+  font-family: "IBM Plex Serif", serif;
+  color: #f9f9f9;
+  padding-bottom: 36px;
+}
+.con_inner {
+  padding: 16px 0;
+  border-radius: 4px;
+  background-color: #30333a;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+}
+.con_inner p {
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Inter", sans-serif;
+  color: #efbf6e;
+  text-transform: initial;
+}
+.con_inner i {
+  margin-right: 12px;
+  color: #fff;
+}
+
+.con_bottom_icons {
+  padding-top: 40px;
+}
+.con_bottom_icons i {
+  font-size: 24px;
+  color: #fff;
+}
+/* contact part end  */
